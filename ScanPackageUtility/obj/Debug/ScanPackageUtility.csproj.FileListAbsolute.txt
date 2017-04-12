@@ -1,0 +1,8 @@
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\bin\Debug\ScanPackageUtility.exe.config
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\bin\Debug\ScanPackageUtility.exe
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\bin\Debug\ScanPackageUtility.pdb
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\bin\Debug\Microsoft.Web.XmlTransform.dll
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\bin\Debug\NuGet.Core.dll
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\obj\Debug\ScanPackageUtility.csprojResolveAssemblyReference.cache
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\obj\Debug\ScanPackageUtility.exe
+c:\users\alexander\documents\visual studio 2015\Projects\ScanPackageUtility\ScanPackageUtility\obj\Debug\ScanPackageUtility.pdb
